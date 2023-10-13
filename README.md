@@ -13,19 +13,19 @@ I'm a passionate web developer with a focus on [Frontend/Backend/Full Stack] dev
 ## 🚀 Projects
 
 ### LAST MINUTE TUTION
-(Link to GitHub repository)
+(https://github.com/ni20in/LastMinuteTution.github.io)
 • It is a full stack website that I created using 
 MERN tech and Spring boot.
 • It can be used for building a community for 
 student to get the best free course
 • Available online based on ratings of students.
 
-### PGLIFE(Link to GitHub repository)
+### PGLIFE[(Link to GitHub repository)](https://github.com/ni20in/pglife)
 • It is a full stack website that I created using 
 MERN tech. It can be used for comparing PG’s 
 in different cities based on different criteria.
 
-### Netflix Clone – Video Streaming App(Link to GitHub repository)
+### Netflix Clone – Video Streaming App
 • A Netflix Clone App built using MERN tech 
 &TMDB API that allows searching of 1000+ 
 movies and provides information about their 
