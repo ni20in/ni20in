@@ -12,7 +12,7 @@ I'm a passionate web developer with a focus on [Frontend/Backend/Full Stack] dev
 
 ## 🚀 Projects
 
-### LAST MINUTE TUTION(https://github.com/ni20in/LastMinuteTution.github.io)
+### LAST MINUTE TUTION[(Link to GitHub repository)](https://github.com/ni20in/LastMinuteTution.github.io)
 • It is a full stack website that I created using 
 MERN tech and Spring boot.
 • It can be used for building a community for 
