@@ -35,7 +35,7 @@ plot.
 ## 📫 Let's Connect
 
 - LinkedIn: https://linkedin.com/in/nitinlalwani8
-- Portfolio: [Link to your Portfolio or Personal Website]
+
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project!
 
