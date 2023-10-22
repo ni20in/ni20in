@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitin Lalwani</h1>
 <h3 align="center">I'm a passionate web developer with a focus on Full Stack development. I love creating interactive and responsive web applications that provide a seamless user experience. Here's a glimpse of my skills and the projects I've worked on:</h3>
-
+<img src="[https://www.vectorlogo.zone/logos/springio/springio-icon.svg](https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1618372561966-TA5Q9PO95WDIADR1AZLU/AdmirableHospitableHen-size_restricted.gif)" alt="spring" width="40" height="40"/>
 - 👨‍💻 All of my projects are available at [https://ni20in.github.io/Portfolio/](https://ni20in.github.io/Portfolio/)
 
 - 📫 How to reach me **nl566954@gmail.com**
