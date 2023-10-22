@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitin Lalwani</h1>
-<h3 align="center" margin-bottom="50">I'm a passionate full stack web developer. I love creating interactive and responsive web applications that provide a seamless user experience. Here's a glimpse of my skills and the projects I've worked on:</h3>
+<h3 align="center" margin-bottom="50" >I'm a passionate full stack web developer. I love creating interactive and responsive web applications that provide a seamless user experience. Here's a glimpse of my skills and the projects I've worked on:</h3>
 <img align="right" src="https://images.squarespace-cdn.com/content/v1/5b23e822f79392038cbd486c/1618372561966-TA5Q9PO95WDIADR1AZLU/AdmirableHospitableHen-size_restricted.gif" alt="gif" width="350" display="flex" margin-left="630"/>
 - 👨‍💻 All of my projects are available at https://ni20in.github.io/Portfolio/
 
